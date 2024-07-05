@@ -1,4 +1,3 @@
-# ImageVerse
 # AesPA-Net: Aesthetic Pattern-Aware Style Transfer Networks
 ## Usage
 #### Set pretrained weights
